@@ -1,0 +1,5 @@
+{
+  "name": "AI Schedule Maker",
+  "description": "An AI-powered application to generate balanced weekly schedules for teams or schools. Input your constraints, and let Gemini craft a detailed timetable for you.",
+  "requestFramePermissions": []
+}
